@@ -1,0 +1,145 @@
+[
+  {
+    "Name": "OffroadHatchback",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.07500000298023224,
+    "DamageContactCoefHitAI": 0.07500000298023224,
+    "DamageContactCoefHitAnyOther": 0.07500000298023224,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "OffroadHatchback_Blue",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.07500000298023224,
+    "DamageContactCoefHitAI": 0.07500000298023224,
+    "DamageContactCoefHitAnyOther": 0.07500000298023224,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "OffroadHatchback_White",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.07500000298023224,
+    "DamageContactCoefHitAI": 0.07500000298023224,
+    "DamageContactCoefHitAnyOther": 0.07500000298023224,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "CivilianSedan",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.06499999761581421,
+    "DamageContactCoefHitAI": 0.06499999761581421,
+    "DamageContactCoefHitAnyOther": 0.06499999761581421,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "CivilianSedan_Black",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.06499999761581421,
+    "DamageContactCoefHitAI": 0.06499999761581421,
+    "DamageContactCoefHitAnyOther": 0.06499999761581421,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "CivilianSedan_Wine",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.06499999761581421,
+    "DamageContactCoefHitAI": 0.06499999761581421,
+    "DamageContactCoefHitAnyOther": 0.06499999761581421,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "Hatchback_02",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.07000000029802322,
+    "DamageContactCoefHitAI": 0.07000000029802322,
+    "DamageContactCoefHitAnyOther": 0.07000000029802322,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "Hatchback_02_Black",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.07000000029802322,
+    "DamageContactCoefHitAI": 0.07000000029802322,
+    "DamageContactCoefHitAnyOther": 0.07000000029802322,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "Hatchback_02_Blue",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.07000000029802322,
+    "DamageContactCoefHitAI": 0.07000000029802322,
+    "DamageContactCoefHitAnyOther": 0.07000000029802322,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "Sedan_02",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.12999999523162842,
+    "DamageContactCoefHitAI": 0.12999999523162842,
+    "DamageContactCoefHitAnyOther": 0.12999999523162842,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "Sedan_02_Grey",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.12999999523162842,
+    "DamageContactCoefHitAI": 0.12999999523162842,
+    "DamageContactCoefHitAnyOther": 0.12999999523162842,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "Sedan_02_Red",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 0,
+    "RequiredImpulseToCutDown": 10000,
+    "DamageContactCoefHitTree": 0.12999999523162842,
+    "DamageContactCoefHitAI": 0.12999999523162842,
+    "DamageContactCoefHitAnyOther": 0.12999999523162842,
+    "DamageToKillCrew": 10000
+  },
+  {
+    "Name": "Truck_01_Covered",
+    "DamageLight": 1000,
+    "DamageHeavy": 5000,
+    "EnableCutDownTrees": 1,
+    "RequiredImpulseToCutDown": 500,
+    "DamageContactCoefHitTree": 0.009999999776482582,
+    "DamageContactCoefHitAI": 0,
+    "DamageContactCoefHitAnyOther": 0,
+    "DamageToKillCrew": 10000
+  }
+]

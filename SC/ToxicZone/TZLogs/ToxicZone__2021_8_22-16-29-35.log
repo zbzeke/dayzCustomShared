@@ -1,0 +1,43 @@
+Creation Time: 2021_8_22-16-29-35
+16-29-35 | [INFO] TZToxicZoneCore - Started ! => Loading config...
+16-29-35 | [INFO] [LOOTSYSTEM]:LootSpawner - Started !
+16-29-35 | [INFO] TZToxicZoneServer - Started
+16-30-15 | [INFO] [TZ STATIC TOXICZONE] - StartParticles
+16-30-16 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+16-30-16 | [INFO] [LOOTSYSTEM]: TZCreature equal to 0!
+16-30-16 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+16-30-16 | [INFO] [LOOTSYSTEM]: ToxicChestList equal to 0!
+16-30-16 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+16-30-16 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+16-30-16 | [INFO] Cases count:9
+16-30-16 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:8040.3 Y:340.252 Z:14611.3
+16-30-16 | [INFO] AKM
+16-30-16 | [INFO] Mag_AKM_30Rnd
+16-30-16 | [INFO] Mag_AKM_30Rnd
+16-30-16 | [INFO] Mag_AKM_Drum75Rnd
+16-30-16 | [INFO] AK_PlasticHndgrd
+16-30-16 | [INFO] AK_RailHndgrd_Black
+16-30-16 | [INFO] AK_FoldingBttstck_Black
+16-30-16 | [INFO] M4A1
+16-30-16 | [INFO] ACOGOptic
+16-30-16 | [INFO] M4_CarryHandleOptic
+16-30-16 | [INFO] M4_CQBBttstck
+16-30-16 | [INFO] M4_MPHndgrd
+16-30-16 | [INFO] M4_RISHndgrd
+16-30-16 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+16-30-16 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+16-30-16 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+16-30-16 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+16-30-16 | [INFO] Cases count:16
+16-30-16 | [INFO] [LOOTSYSTEM]: A previous case has been found at that location and got deleted!
+16-30-16 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army2- Position: X:1988.6 Y:450.254 Z:13817
+16-30-16 | [INFO] FAL
+16-30-16 | [INFO] Fal_FoldingBttstck
+16-30-16 | [INFO] Fal_OeBttstck
+16-30-16 | [INFO] Mag_FAL_20Rnd
+16-30-16 | [INFO] ToxicCure
+16-30-16 | [INFO] AmmoBox_545x39_20Rnd
+16-30-16 | [INFO] AmmoBox_762x39_20Rnd
+16-30-16 | [INFO] AmmoBox_762x54_20Rnd
+16-30-16 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+16-30-16 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1

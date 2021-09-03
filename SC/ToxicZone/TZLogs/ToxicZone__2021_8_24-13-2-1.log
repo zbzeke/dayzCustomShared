@@ -1,0 +1,268 @@
+Creation Time: 2021_8_24-13-2-1
+13-2-1 | [INFO] TZToxicZoneCore - Started ! => Loading config...
+13-2-1 | [INFO] [LOOTSYSTEM]:LootSpawner - Started !
+13-2-1 | [INFO] TZToxicZoneServer - Started
+13-2-44 | [INFO] [TZ STATIC TOXICZONE] - StartParticles
+13-2-45 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+13-2-45 | [INFO] [LOOTSYSTEM]: TZCreature equal to 0!
+13-2-45 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+13-2-45 | [INFO] [LOOTSYSTEM]: ToxicChestList equal to 0!
+13-2-45 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+13-2-45 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+13-2-45 | [INFO] Cases count:9
+13-2-45 | [INFO] [LOOTSYSTEM]: A previous case has been found at that location and got deleted!
+13-2-45 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:8040.3 Y:340.252 Z:14611.3
+13-2-45 | [INFO] AKM
+13-2-45 | [INFO] Mag_AKM_30Rnd
+13-2-45 | [INFO] AK_Suppressor
+13-2-45 | [INFO] AK_PlasticHndgrd
+13-2-45 | [INFO] AK_RailHndgrd_Black
+13-2-45 | [INFO] AK_Bayonet
+13-2-45 | [INFO] AK_FoldingBttstck_Black
+13-2-45 | [INFO] ToxicCure
+13-2-45 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+13-2-45 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+13-2-45 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+13-2-45 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+13-2-45 | [INFO] Cases count:16
+13-2-45 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:1386.16 Y:464.569 Z:14422.1
+13-2-45 | [INFO] AKM
+13-2-45 | [INFO] PSO1Optic
+13-2-45 | [INFO] AK_PlasticHndgrd
+13-2-45 | [INFO] AK_RailHndgrd_Black
+13-2-45 | [INFO] M4A1
+13-2-45 | [INFO] ACOGOptic
+13-2-45 | [INFO] M4_MPBttstck
+13-2-45 | [INFO] M4_MPHndgrd
+13-2-45 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+13-2-45 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+13-47-49 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+13-47-49 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+13-47-49 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+13-47-49 | [INFO] Cases count:9
+13-47-49 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army2- Position: X:7928.9 Y:340.478 Z:14670
+13-47-49 | [INFO] SVD
+13-47-49 | [INFO] PSO1Optic
+13-47-49 | [INFO] AK74
+13-47-49 | [INFO] AK_RailHndgrd_Black
+13-47-49 | [INFO] AK74_WoodBttstck
+13-47-49 | [INFO] AK_Bayonet
+13-47-49 | [INFO] AK_Suppressor
+13-47-49 | [INFO] AmmoBox_545x39_20Rnd
+13-47-49 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+13-47-49 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+13-47-49 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+13-47-49 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+13-47-49 | [INFO] Cases count:16
+13-47-49 | [INFO] [LOOTSYSTEM]: A previous case has been found at that location and got deleted!
+13-47-49 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:1386.16 Y:464.569 Z:14422.1
+13-47-49 | [INFO] AKM
+13-47-49 | [INFO] Mag_AKM_30Rnd
+13-47-49 | [INFO] AK_PlasticHndgrd
+13-47-49 | [INFO] AK_RailHndgrd_Black
+13-47-49 | [INFO] M4A1
+13-47-49 | [INFO] Mag_STANAG_30Rnd
+13-47-49 | [INFO] ACOGOptic
+13-47-49 | [INFO] M4_CQBBttstck
+13-47-49 | [INFO] M4_MPBttstck
+13-47-49 | [INFO] M4_MPHndgrd
+13-47-49 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+13-47-49 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+14-32-48 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+14-32-48 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+14-32-48 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+14-32-48 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+14-32-48 | [INFO] Cases count:9
+14-32-48 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army2- Position: X:8028.43 Y:339.823 Z:14642.8
+14-32-48 | [INFO] SVD
+14-32-48 | [INFO] PSO1Optic
+14-32-48 | [INFO] Mag_SVD_10Rnd
+14-32-48 | [INFO] FAL
+14-32-48 | [INFO] Fal_FoldingBttstck
+14-32-48 | [INFO] Fal_OeBttstck
+14-32-48 | [INFO] ToxicCure
+14-32-48 | [INFO] AmmoBox_545x39_20Rnd
+14-32-48 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+14-32-48 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+14-32-48 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+14-32-48 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+14-32-48 | [INFO] Cases count:16
+14-32-48 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:1390.25 Y:464.569 Z:14428.6
+14-32-48 | [INFO] ToxicCure
+14-32-48 | [INFO] AmmoBox_545x39_20Rnd
+14-32-48 | [INFO] AmmoBox_556x45_20Rnd
+14-32-48 | [INFO] AmmoBox_762x39_20Rnd
+14-32-48 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+14-32-48 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+15-17-48 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+15-17-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+15-17-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+15-17-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+15-17-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+15-17-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+15-17-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+15-17-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+15-17-48 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+15-17-48 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+15-17-48 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+15-17-48 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+15-17-48 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+15-17-48 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+15-17-48 | [INFO] Cases count:9
+15-17-48 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army2- Position: X:7928.9 Y:340.478 Z:14670
+15-17-48 | [INFO] AK74
+15-17-48 | [INFO] AK_RailHndgrd_Black
+15-17-48 | [INFO] AK74_WoodBttstck
+15-17-48 | [INFO] AK_Bayonet
+15-17-48 | [INFO] Mag_AK74_30Rnd
+15-17-48 | [INFO] AmmoBox_545x39_20Rnd
+15-17-48 | [INFO] AmmoBox_556x45_20Rnd
+15-17-48 | [INFO] AmmoBox_762x39_20Rnd
+15-17-48 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+15-17-48 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+15-17-48 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+15-17-48 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+15-17-48 | [INFO] Cases count:16
+15-17-48 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army2- Position: X:1705.13 Y:452.415 Z:14171.1
+15-17-48 | [INFO] AK74
+15-17-48 | [INFO] AK_RailHndgrd_Black
+15-17-48 | [INFO] AK74_WoodBttstck
+15-17-48 | [INFO] AK_Bayonet
+15-17-48 | [INFO] AK_FoldingBttstck_Black
+15-17-48 | [INFO] ToxicCure
+15-17-48 | [INFO] AmmoBox_556x45_20Rnd
+15-17-48 | [INFO] AmmoBox_762x39_20Rnd
+15-17-48 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+15-17-48 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+16-2-47 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+16-2-47 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+16-2-47 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+16-2-47 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+16-2-47 | [INFO] Cases count:9
+16-2-47 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:8029.16 Y:339.823 Z:14642.8
+16-2-47 | [INFO] M4A1
+16-2-47 | [INFO] Mag_STANAG_30Rnd
+16-2-47 | [INFO] M4_CarryHandleOptic
+16-2-47 | [INFO] M4_MPHndgrd
+16-2-47 | [INFO] M4_RISHndgrd
+16-2-47 | [INFO] M4_Suppressor
+16-2-47 | [INFO] ToxicCure
+16-2-47 | [INFO] AmmoBox_545x39_20Rnd
+16-2-47 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+16-2-47 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+16-2-47 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+16-2-47 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+16-2-47 | [INFO] Cases count:16
+16-2-47 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:1896.77 Y:448.958 Z:13707.8
+16-2-47 | [INFO] ToxicCure
+16-2-47 | [INFO] AmmoBox_545x39_20Rnd
+16-2-47 | [INFO] AmmoBox_556x45_20Rnd
+16-2-47 | [INFO] AmmoBox_762x39_20Rnd
+16-2-47 | [INFO] AmmoBox_762x54_20Rnd
+16-2-47 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+16-2-47 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+16-47-47 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+16-47-47 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+16-47-47 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+16-47-47 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+16-47-47 | [INFO] Cases count:9
+16-47-47 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:7895.69 Y:344.4 Z:14680.6
+16-47-47 | [INFO] AKM
+16-47-47 | [INFO] Mag_AKM_30Rnd
+16-47-47 | [INFO] Mag_AKM_30Rnd
+16-47-47 | [INFO] PSO1Optic
+16-47-47 | [INFO] AK_PlasticHndgrd
+16-47-47 | [INFO] M4A1
+16-47-47 | [INFO] Mag_STANAG_30Rnd
+16-47-47 | [INFO] ACOGOptic
+16-47-47 | [INFO] M4_CQBBttstck
+16-47-47 | [INFO] M4_MPHndgrd
+16-47-47 | [INFO] M4_RISHndgrd
+16-47-47 | [INFO] M4_Suppressor
+16-47-47 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+16-47-47 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+16-47-47 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+16-47-47 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+16-47-47 | [INFO] Cases count:16
+16-47-47 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army2- Position: X:1705.13 Y:452.415 Z:14171.1
+16-47-47 | [INFO] SVD
+16-47-47 | [INFO] Mag_SVD_10Rnd
+16-47-47 | [INFO] ToxicCure
+16-47-47 | [INFO] AmmoBox_545x39_20Rnd
+16-47-47 | [INFO] AmmoBox_556x45_20Rnd
+16-47-47 | [INFO] AmmoBox_762x39_20Rnd
+16-47-47 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+16-47-47 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1

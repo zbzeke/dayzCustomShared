@@ -1,0 +1,23 @@
+{
+    "weatherSettings": [
+        {
+            "name": "wasd",
+            "overcastActual": [
+                0.0,
+                0.0,
+                100000.0
+            ],
+            "rainActual": [
+                0.0,
+                0.0,
+                100000.0
+            ],
+            "fogActual": [
+                0.0,
+                0.10000000149011612,
+                10000.0
+            ],
+            "windForceActual": 0.10999999940395355
+        }
+    ]
+}

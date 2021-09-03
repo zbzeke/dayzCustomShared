@@ -1,0 +1,167 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+//Altar
+
+<TraderMarker> 			0 									// Trader ID
+<TraderMarkerPosition>	8223.55,    471.326,     9042.81	// Coordinate X, 	Coordinate Y, 	Coordinate Z
+<TraderMarkerSafezone>	0									// Safezone Radius
+
+<TraderMarker> 			1
+<TraderMarkerPosition>	8218.93,    472.333,    9039.81
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			6
+<TraderMarkerPosition>	8216.67,    472.338,    9032.32
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			7
+<TraderMarkerPosition>	8219.03,    472.332,    9027.76
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			2
+<TraderMarkerPosition>	8241.37,	472.331,	9028.15
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			3
+<TraderMarkerPosition>	8235.31,	472.322,	9025.2
+<TraderMarkerSafezone>	0
+
+
+<TraderMarker> 			8
+<TraderMarkerPosition>	8235.87,		472.311,	9042.54
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			4
+<TraderMarkerPosition>	8240.07,	472.342,	9034.99
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			5
+<TraderMarkerPosition>	8172.28,	475.834,	9114.98
+<TraderMarkerSafezone>	0
+<VehicleSpawn>			8162.37,	475.113,	9112.7		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
+<VehicleSpawnOri>		-26.9998,		0,			0			// Vehicle Spawnpoint Orientation; 	Yaw, 			Pitch, 			Roll	 	 (optional)
+
+
+// Kamenka 
+<TraderMarker> 			9
+<TraderMarkerPosition>	1309.96,    2.59436,    2237.79
+<TraderMarkerSafezone>	0
+
+
+
+
+//Black market
+<TraderMarker> 			10
+<TraderMarkerPosition>	653.574,	419.925,	10944.5
+<TraderMarkerSafezone>	0
+
+
+//Blalota Aircraft Trader
+<TraderMarker> 			11
+<TraderMarkerPosition>	5024.65,	9.46618,	2346.58
+<TraderMarkerSafezone>	0
+<VehicleSpawn>			5032.38,	13,	2356.26		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
+<VehicleSpawnOri>		-26.9998,		0,			0			// Vehicle Spawnpoint Orientation; 	Yaw, 			Pitch, 			Roll	 	 (optional)
+
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+	//test Shirt_BlueCheck
+
+
+
+
+
+
+// Altar:
+
+<Object> 			ZT_Vending_FoodDrink					// Classname
+<ObjectPosition>	8223.55,    471.326,     9042.81		// Coordinate X, 	Coordinate Y, 	Coordinate Z
+<ObjectOrientation>	153, 0,		0			// Yaw, 			Pitch, 			Roll
+<ObjectAttachment>	NPC_DUMMY						// Add this if you are using an non Character Object for an Trader (like Vending Machines, etc.). It is needed to make the User Action for the Trading Menu work.
+
+<Object> 			ZT_Vending_Tools
+<ObjectPosition>	8218.93,    472.333,    9039.81
+<ObjectOrientation>	-27, 0,			0
+<ObjectAttachment>	NPC_DUMMY	
+
+
+<Object> 			ZT_Vending_BaseStuff
+<ObjectPosition>	8216.67,    472.338,    9032.32
+<ObjectOrientation>	-117, 0,			0
+<ObjectAttachment>	NPC_DUMMY	
+
+
+<Object> 			ZT_Vending_Event
+<ObjectPosition>	8219.03,    472.332,    9027.76
+<ObjectOrientation>	-117, 0,			0
+<ObjectAttachment>	NPC_DUMMY	
+
+
+<Object> 			ZT_Vending_Weapons
+<ObjectPosition>	8241.37,	472.331,	9028.15
+<ObjectOrientation>	153, 0,			0
+<ObjectAttachment>	NPC_DUMMY	
+
+<Object> 			ZT_Vending_Attachments
+<ObjectPosition>	8235.31,	472.322,	9025.2
+<ObjectOrientation>	153, 0,			0
+<ObjectAttachment>	NPC_DUMMY	
+
+<Object>			ZT_Vending_MilitaryClothing
+<ObjectPosition>	8235.87,		472.311,	9042.54
+<ObjectOrientation>	63, 0,			0
+<ObjectAttachment>	NPC_DUMMY	
+ 
+<Object>			ZT_Vending_Clothing
+<ObjectPosition>	8240.07,	472.342,	9034.99
+<ObjectOrientation>	63,	0,			0
+<ObjectAttachment>	NPC_DUMMY	
+ 
+ 
+<Object>			ZT_Vending_Vehicles
+<ObjectPosition>	8172.28,	475.834,	9114.98
+<ObjectOrientation>	63,	0,			0
+<ObjectAttachment>	NPC_DUMMY	
+ 
+
+
+
+<Object>			Land_RoadCone
+<ObjectPosition>	8160.01,	474.28,	9108.04
+<ObjectOrientation>	0,			0,			0
+
+<Object>			Land_RoadCone
+<ObjectPosition>	8167.37,	474.34,	9110.79
+<ObjectOrientation>	-22.0017,	0,			0
+
+<Object>			Land_RoadCone
+<ObjectPosition>	8163.44,	474.34,	9118.72
+<ObjectOrientation>	0,			0,			0
+
+<Object>			Land_RoadCone
+<ObjectPosition>	8156.32,	474.33,	9115.88
+<ObjectOrientation>	-22.0017,	0,			0
+
+
+
+<Object>			ZT_Vending_Hunting
+<ObjectPosition>	1309.96,    2.59436,    2237.79
+<ObjectOrientation>	198,	0,			0
+<ObjectAttachment>	NPC_DUMMY	
+ 
+ 
+<Object>			ZT_Vending_BlackMarket
+<ObjectPosition>	653.574,	419.925,	10944.5
+<ObjectOrientation>	70,0,			0
+<ObjectAttachment>	NPC_DUMMY	
+
+<Object>			ZT_Vending_Aircraft
+<ObjectPosition>	5024.65,	10.46618,	2346.58
+<ObjectOrientation>	-153,	0,			0
+<ObjectAttachment>	NPC_DUMMY	
+ 
+
+
+
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!

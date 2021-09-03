@@ -1,0 +1,35 @@
+[
+  {
+    "Type": 1,
+    "Message": "This Is Your Emergency Broadcast System Announcing The Commencement Of The Second Purge , Sanctioned By The Chernarus Government.All crime including crime is legal for 48 consecutive hours until Sunday at 7pm EST. Purge Purge Purge Deez nuts!",
+    "Time": [
+      -1,
+      0,
+      0
+    ],
+    "Loop": 0,
+    "LoopTime": 30
+  },
+  {
+    "Type": 2,
+    "Message": "Unattended cars will be deleted. Keep cars parked in garage when not in use.",
+    "Time": [
+      -1,
+      0,
+      0
+    ],
+    "Loop": 10,
+    "LoopTime": 700
+  },
+  {
+    "Type": 1,
+    "Message": "The purge is active. Le Chernarus Government thanks you for your participation",
+    "Time": [
+      -1,
+      0,
+      0
+    ],
+    "Loop": 120,
+    "LoopTime": 120
+  }
+]

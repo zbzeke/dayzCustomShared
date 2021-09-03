@@ -1,0 +1,407 @@
+{
+  "M_STATIC_MARKER_ARRAY": [
+    {
+      "M_MARKER_NAME": "BlackMarket Trader",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        0,
+        255
+      ],
+      "M_POSITION": [
+        640,
+        0,
+        10945
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 1
+    },
+    {
+      "M_MARKER_NAME": "Altar Trader ",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        0,
+        255
+      ],
+      "M_POSITION": [
+        8209,
+        0,
+        9066
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 1
+    },
+    {
+      "M_MARKER_NAME": "Kamenka Wildlife Trader",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        0,
+        255
+      ],
+      "M_POSITION": [
+        1310,
+        1,
+        2239
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 1
+    },
+    {
+      "M_MARKER_NAME": "Balota Aircraft Trader",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        0,
+        255
+      ],
+      "M_POSITION": [
+        5026,
+        1,
+        2346
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 1
+    },
+    {
+      "M_MARKER_NAME": "Cement Mixer 1",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        10054.9150390625,
+        5.99834680557251,
+        1824.8145751953125
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Cement Mixer 2",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        8025.97412109375,
+        14.320038795471191,
+        3112.5556640625
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Cement Mixer 3",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        2259.96728515625,
+        185.38668823242188,
+        5228.34326171875
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Cement Mixer 4",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        13320.810546875,
+        9.184663772583008,
+        6120.3203125
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Cement Mixer 5",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        11916.3330078125,
+        28.763134002685547,
+        14286.380859375
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Cement Mixer 6",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        8005.10009765625,
+        129.20440673828125,
+        12594.5
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Cement Mixer 7",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        5216.392578125,
+        340.9700927734375,
+        9886.8974609375
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Cement Mixer 8",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        2943.952880859375,
+        220.7844696044922,
+        12637.5263671875
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Cement Mixer 9",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        11916.3330078125,
+        28.763134002685547,
+        14286.380859375
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 1",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        1105.71,
+        6.77159,
+        2385.98
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 2",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        8175.81,
+        475.834,
+        9107.64
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 3",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        13388,
+        5.18593,
+        6579.82
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 4",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        13575.5,
+        35.2245,
+        13309.4
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 5",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        7468.24,
+        122.001,
+        12654.4
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 6",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        2997.99,
+        211.362,
+        12645.3
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 7",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        5017.99,
+        10.466,
+        2352.3
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 8",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        8166.91,
+        470.103,
+        9200
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 9",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        9464.98,
+        5.99288,
+        1981.81
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 10",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        12989.3,
+        6.00399,
+        10104.5
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 11",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        2698.48,
+        210.947,
+        5595.15
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    },
+    {
+      "M_MARKER_NAME": "Garage 12",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        75,
+        50,
+        255
+      ],
+      "M_POSITION": [
+        5856.83,
+        277.607,
+        10114.4
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 0
+    }
+  ],
+  "m_CanUse3DMarkers": 1,
+  "m_OwnPositionMarkerDisabled": 0,
+  "m_ForceMapItemOnly": 0
+}

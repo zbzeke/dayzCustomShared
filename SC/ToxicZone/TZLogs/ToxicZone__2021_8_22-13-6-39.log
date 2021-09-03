@@ -1,0 +1,79 @@
+Creation Time: 2021_8_22-13-6-39
+13-6-39 | [INFO] TZToxicZoneCore - Started ! => Loading config...
+13-6-39 | [INFO] [LOOTSYSTEM]:LootSpawner - Started !
+13-6-39 | [INFO] TZToxicZoneServer - Started
+13-7-22 | [INFO] [TZ STATIC TOXICZONE] - StartParticles
+13-7-23 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+13-7-23 | [INFO] [LOOTSYSTEM]: TZCreature equal to 0!
+13-7-23 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+13-7-23 | [INFO] [LOOTSYSTEM]: ToxicChestList equal to 0!
+13-7-23 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+13-7-23 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+13-7-23 | [INFO] Cases count:9
+13-7-23 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:7895.69 Y:344.4 Z:14680.6
+13-7-23 | [INFO] AKM
+13-7-23 | [INFO] AK_PlasticHndgrd
+13-7-23 | [INFO] AK_RailHndgrd_Black
+13-7-23 | [INFO] AK_FoldingBttstck_Black
+13-7-23 | [INFO] M4A1
+13-7-23 | [INFO] Mag_STANAG_30Rnd
+13-7-23 | [INFO] ACOGOptic
+13-7-23 | [INFO] M4_CarryHandleOptic
+13-7-23 | [INFO] M4_MPHndgrd
+13-7-23 | [INFO] M4_RISHndgrd
+13-7-23 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+13-7-23 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+13-7-23 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+13-7-23 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+13-7-23 | [INFO] Cases count:16
+13-7-23 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:1694.4 Y:448.403 Z:14210
+13-7-23 | [INFO] AmmoBox_545x39_20Rnd
+13-7-23 | [INFO] AmmoBox_556x45_20Rnd
+13-7-23 | [INFO] AmmoBox_762x39_20Rnd
+13-7-23 | [INFO] AmmoBox_762x54_20Rnd
+13-7-23 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+13-7-23 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+13-52-27 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: TZCreature has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+13-52-27 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: ToxicChestList has been deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+13-52-27 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+13-52-27 | [INFO] Cases count:9
+13-52-27 | [INFO] [LOOTSYSTEM]: A previous case has been found at that location and got deleted!
+13-52-27 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army2- Position: X:7832.35 Y:357.1 Z:14794
+13-52-27 | [INFO] SVD
+13-52-27 | [INFO] Mag_SVD_10Rnd
+13-52-27 | [INFO] ToxicCure
+13-52-27 | [INFO] AmmoBox_556x45_20Rnd
+13-52-27 | [INFO] AmmoBox_762x39_20Rnd
+13-52-27 | [INFO] AmmoBox_762x54_20Rnd
+13-52-27 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+13-52-27 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+13-52-27 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+13-52-27 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+13-52-27 | [INFO] Cases count:16
+13-52-27 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army2- Position: X:1696.09 Y:456.485 Z:14179.1
+13-52-27 | [INFO] ToxicCure
+13-52-27 | [INFO] AmmoBox_545x39_20Rnd
+13-52-27 | [INFO] AmmoBox_556x45_20Rnd
+13-52-27 | [INFO] AmmoBox_762x39_20Rnd
+13-52-27 | [INFO] AmmoBox_762x54_20Rnd
+13-52-27 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+13-52-27 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1

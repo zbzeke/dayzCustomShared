@@ -1,0 +1,195 @@
+{
+    "RequiredProtection": 6,
+    "TZListSlotProtection": [
+        {
+            "SlotName": "Mask",
+            "ListProtections": [
+                {
+                    "ClotheName": "GP5GasMask",
+                    "Protection": 0
+                },
+                {
+                    "ClotheName": "mag3_gasmask_mung",
+                    "Protection": 0
+                },
+                {
+                    "ClotheName": "stalker_gasmask_white_mung",
+                    "Protection": 0
+                },
+                {
+                    "ClotheName": "stalker_gasmask_black_mung",
+                    "Protection": 0
+                },
+                {
+                    "ClotheName": "alp_GasMaskCamo",
+                    "Protection": 0
+                },
+                {
+                    "ClotheName": "PMK_5A_Gas_Mask",
+                    "Protection": 0
+                },
+                {
+                    "ClotheName": "ToxicZoneGP5GasMask_black",
+                    "Protection": 0
+                },
+                {
+                    "ClotheName": "ToxicZoneGP5GasMask_green",
+                    "Protection": 0
+                },
+                {
+                    "ClotheName": "GasMask",
+                    "Protection": 0
+                }
+            ]
+        },
+        {
+            "SlotName": "Headgear",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCHoodBase",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "NBCHoodGray",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "alp_NBCHoodCamo",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Hood_black",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Hood_green",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Hood_yellow",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Body",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCJacketBase",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "NBCJacketGray",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "nbc_longcoat_mung",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "alp_NBCJacketCamo",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Jacket_yellow",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Jacket_green",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Jacket_black",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Gloves",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCGloves_ColorBase",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "NBCGlovesGray",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "alp_NBCGlovesCamo",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Gloves_black",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Gloves_green",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Gloves_yellow",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Legs",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCPantsBase",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "NBCPantsGray",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "alp_NBCPantsCamo",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Pants_yellow",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Pants_green",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Pants_black",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCBootsBase",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "NBCBootsGray",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "alp_NBCBootsCamo",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Boots_yellow",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Boots_green",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "ToxicZoneSuits_Boots_black",
+                    "Protection": 1
+                }
+            ]
+        }
+    ]
+}

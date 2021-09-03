@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+
+<!-- Welcome message -->
+<message>
+<delay>10</delay>
+<repeat>0</repeat>
+<onConnect>1</onConnect>
+<text>DeezNutsTest</text>
+</message>
+
+</messages>

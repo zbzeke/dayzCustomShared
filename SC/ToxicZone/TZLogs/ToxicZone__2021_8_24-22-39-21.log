@@ -1,0 +1,41 @@
+Creation Time: 2021_8_24-22-39-21
+22-39-21 | [INFO] TZToxicZoneCore - Started ! => Loading config...
+22-39-21 | [INFO] [LOOTSYSTEM]:LootSpawner - Started !
+22-39-21 | [INFO] TZToxicZoneServer - Started
+22-40-4 | [INFO] [TZ STATIC TOXICZONE] - StartParticles
+22-40-5 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+22-40-5 | [INFO] [LOOTSYSTEM]: TZCreature equal to 0!
+22-40-5 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+22-40-5 | [INFO] [LOOTSYSTEM]: ToxicChestList equal to 0!
+22-40-5 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+22-40-5 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+22-40-5 | [INFO] Cases count:9
+22-40-5 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army2- Position: X:8028.43 Y:339.823 Z:14642.8
+22-40-5 | [INFO] AK74
+22-40-5 | [INFO] AK_RailHndgrd_Black
+22-40-5 | [INFO] AK74_WoodBttstck
+22-40-5 | [INFO] AK_Bayonet
+22-40-5 | [INFO] AK_FoldingBttstck_Black
+22-40-5 | [INFO] Mag_AK74_30Rnd
+22-40-5 | [INFO] FAL
+22-40-5 | [INFO] Fal_FoldingBttstck
+22-40-5 | [INFO] Fal_OeBttstck
+22-40-5 | [INFO] Mag_FAL_20Rnd
+22-40-5 | [INFO] ACOGOptic
+22-40-5 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+22-40-5 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+22-40-5 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+22-40-5 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+22-40-5 | [INFO] Cases count:16
+22-40-5 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:1678.46 Y:445.741 Z:13823.8
+22-40-5 | [INFO] AKM
+22-40-5 | [INFO] Mag_AKM_30Rnd
+22-40-5 | [INFO] Mag_AKM_30Rnd
+22-40-5 | [INFO] AK_PlasticHndgrd
+22-40-5 | [INFO] AK_RailHndgrd_Black
+22-40-5 | [INFO] M4A1
+22-40-5 | [INFO] M4_CarryHandleOptic
+22-40-5 | [INFO] M4_MPBttstck
+22-40-5 | [INFO] M4_MPHndgrd
+22-40-5 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+22-40-5 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1

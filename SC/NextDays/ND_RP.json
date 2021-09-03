@@ -1,0 +1,21 @@
+{
+    "ItemsCanBeRepairedToPristine": 0,
+    "SecureReachedSkill": 1,
+    "SavedStatsWithoutLI": 0.0,
+    "MaskPreventConsume": 0,
+    "ExceptionsInMask": [
+        "Balaclava3Holes_Beige",
+        "Balaclava3Holes_Blue",
+        "Balaclava3Holes_Black",
+        "Balaclava3Holes_Green"
+    ],
+    "IndestructibleLockedVehicle": 0,
+    "DisableClimbOverVehicle": 0,
+    "IndestructibleVehicles": 0,
+    "EnableEnhancedCarProperties": 0,
+    "RequiredKeyToStartEngine": 0,
+    "DisableLocpicking": 0,
+    "TimeToForceOpen": 60.0,
+    "DamageLockpick": 40.0,
+    "EnableSkillRadiationResistance": 1
+}

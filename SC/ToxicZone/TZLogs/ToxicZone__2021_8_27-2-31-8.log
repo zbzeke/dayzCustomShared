@@ -1,0 +1,43 @@
+Creation Time: 2021_8_27-2-31-8
+2-31-8 | [INFO] TZToxicZoneCore - Started ! => Loading config...
+2-31-8 | [INFO] [LOOTSYSTEM]:LootSpawner - Started !
+2-31-8 | [INFO] TZToxicZoneServer - Started
+2-31-48 | [INFO] [TZ STATIC TOXICZONE] - StartParticles
+2-31-49 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+2-31-49 | [INFO] [LOOTSYSTEM]: TZCreature equal to 0!
+2-31-49 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+2-31-49 | [INFO] [LOOTSYSTEM]: ToxicChestList equal to 0!
+2-31-49 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+2-31-49 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+2-31-49 | [INFO] Cases count:9
+2-31-49 | [INFO] [LOOTSYSTEM]: A previous case has been found at that location and got deleted!
+2-31-49 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:8040.3 Y:340.252 Z:14611.3
+2-31-49 | [INFO] AKM
+2-31-49 | [INFO] Mag_AKM_30Rnd
+2-31-49 | [INFO] PSO1Optic
+2-31-49 | [INFO] AK_RailHndgrd_Black
+2-31-49 | [INFO] AK_FoldingBttstck_Black
+2-31-49 | [INFO] M4A1
+2-31-49 | [INFO] Mag_STANAGCoupled_30Rnd
+2-31-49 | [INFO] ACOGOptic
+2-31-49 | [INFO] M4_CarryHandleOptic
+2-31-49 | [INFO] M4_CQBBttstck
+2-31-49 | [INFO] M4_MPHndgrd
+2-31-49 | [INFO] M4_Suppressor
+2-31-49 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+2-31-49 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+2-31-49 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+2-31-49 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+2-31-49 | [INFO] Cases count:16
+2-31-49 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:1896.77 Y:448.958 Z:13707.8
+2-31-49 | [INFO] AKM
+2-31-49 | [INFO] Mag_AKM_30Rnd
+2-31-49 | [INFO] AK_Suppressor
+2-31-49 | [INFO] AK_PlasticHndgrd
+2-31-49 | [INFO] AK_RailHndgrd_Black
+2-31-49 | [INFO] M4A1
+2-31-49 | [INFO] Mag_STANAGCoupled_30Rnd
+2-31-49 | [INFO] M4_MPHndgrd
+2-31-49 | [INFO] M4_RISHndgrd
+2-31-49 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+2-31-49 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1

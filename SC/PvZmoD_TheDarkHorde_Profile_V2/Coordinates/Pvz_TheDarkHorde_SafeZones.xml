@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+	
+<!-- FOR MORE DETAILS, Thread on workshop : https://steamcommunity.com/workshop/filedetails/discussion/2007900691/2936867947871717913/ -->
+
+<types>
+	<type name="Global_Safe_Zones_Options">
+		<Global_Activation										Value = "1" />       	<!-- [Interger 0 or 1] -->
+        <Teleport_Distance_When_Entering_Safe_Zone				Value = "1000"/>       	<!-- [Integer 10 to Infinity] (meters) -->
+        <Security_Distance_To_Players							Value = "500"/>       	<!-- [Integer 10 to Infinity] (meters) -->
+        <Also_Count_Players_In_Safe_Zone_To_Trigger_Hunting_Mod	Value = "false"/>       <!-- [true or false] -->
+        <Hunting_Mod_Can_Focus_On_Players_In_Safe_Zone			Value = "false"/>       <!-- [true or false] -->
+        <Safe_Zone_Timer										Value = "5.0"/>        	<!-- [Decimal 1.0 to Infinity] (seconds) -->
+	</type>
+	
+	<!-- =============== Save Zone Lists =================== -->
+	<!-- =================== Chernarus ===================== -->
+	<type name="Altar_Trader">								<!-- [Text] -->
+		<Activated					Value = "1" />      			<!-- [Integer 0 or 1] -->
+        <Corner_UpperLeft			Coordinates = "7810.02 / 9570.01"/>		<!-- [Integer/Integer] -->
+        <Corner_LowerRight			Coordinates = "8471.11 / 9076.12"/>		<!-- [Integer/Integer] -->
+	</type>	
+	
+	
+	<!-- =================== Other =================== -->
+	<type name="Blackmarket">									<!-- You can modify this one as you want -->
+		<Activated					Value = "1" />					<!-- You can modify this one as you want -->
+        <Corner_UpperLeft			Coordinates = "433.00 / 11238.34"/>		<!-- You can modify this one as you want -->
+        <Corner_LowerRight			Coordinates = "987.15 / 10499.45"/>  	<!-- You can modify this one as you want -->      
+	</type>	
+		<type name="Kamenka">									<!-- You can modify this one as you want -->
+		<Activated					Value = "1" />					<!-- You can modify this one as you want -->
+        <Corner_UpperLeft			Coordinates = "1004.65 / 2459.20"/>		<!-- You can modify this one as you want -->
+        <Corner_LowerRight			Coordinates = "1541.30 / 1860.31"/>  	<!-- You can modify this one as you want -->      
+	</type>	
+	<!-- You can add new safe zones sections here -->
+</types>

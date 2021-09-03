@@ -1,0 +1,33 @@
+Creation Time: 2021_8_27-1-1-39
+1-1-39 | [INFO] TZToxicZoneCore - Started ! => Loading config...
+1-1-39 | [INFO] [LOOTSYSTEM]:LootSpawner - Started !
+1-1-39 | [INFO] TZToxicZoneServer - Started
+1-2-26 | [INFO] [TZ STATIC TOXICZONE] - StartParticles
+1-2-27 | [INFO] [LOOTSYSTEM]: [CreatureCleaner] !
+1-2-27 | [INFO] [LOOTSYSTEM]: TZCreature equal to 0!
+1-2-27 | [INFO] [LOOTSYSTEM]: [ToxicChestCleaner] !
+1-2-27 | [INFO] [LOOTSYSTEM]: ToxicChestList equal to 0!
+1-2-27 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZKamensk- IsLootActive=true
+1-2-27 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+1-2-27 | [INFO] Cases count:9
+1-2-27 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:7812.99 Y:356.012 Z:14783.9
+1-2-27 | [INFO] ToxicCure
+1-2-27 | [INFO] AmmoBox_545x39_20Rnd
+1-2-27 | [INFO] AmmoBox_556x45_20Rnd
+1-2-27 | [INFO] AmmoBox_762x39_20Rnd
+1-2-27 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+1-2-27 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1
+1-2-27 | [INFO] [LOOTSYSTEM]: ToxicZoneName:TZTisy- IsLootActive=true
+1-2-27 | [INFO] [LOOTSYSTEM]: NumberOfCratePerTime: 1
+1-2-27 | [INFO] Cases count:16
+1-2-27 | [INFO] [LOOTSYSTEM]: ToxicCase Spawned: CaseName: Army1- Position: X:1991.67 Y:450.258 Z:13825.1
+1-2-27 | [INFO] AKM
+1-2-27 | [INFO] Mag_AKM_30Rnd
+1-2-27 | [INFO] Mag_AKM_30Rnd
+1-2-27 | [INFO] PSO1Optic
+1-2-27 | [INFO] AK_PlasticHndgrd
+1-2-27 | [INFO] AK_RailHndgrd_Black
+1-2-27 | [INFO] AK_FoldingBttstck_Black
+1-2-27 | [INFO] AmmoBox_762x39_20Rnd
+1-2-27 | [INFO] [LOOTSYSTEM] Spawned: Animal_CanisLupus_Greycount: 7
+1-2-27 | [INFO] [LOOTSYSTEM] Spawned: Animal_UrsusArctoscount: 1

@@ -1,0 +1,9 @@
+{
+    "RequiresWalkieTalkie": 0,
+    "ShowPlayersOnMap": 1,
+    "SetMapPositionToPlayer": 0,
+    "ShowMissionRadius": 1,
+    "ShowLabelsSafeZone": 0,
+    "LabelOfSafeZone": "Safe Zone",
+    "DamageSpawnedVehiclesInMission": 0
+}

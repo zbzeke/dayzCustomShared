@@ -1,0 +1,28 @@
+{
+    "m_Admins": [
+        {
+            "m_PlainID": "76561198190333279",
+            "m_Name": "Mordecai",
+            "m_permissions": {
+                "m_CanUseServerConfig": 1,
+                "m_CanUsePlayersBankData": 1,
+                "m_CanUsePlayersClans": 1,
+                "m_CanUseMiscServer": 1,
+                "m_CanAddAdmins": 1,
+                "m_CanIgnoreNamePermission": 1
+            }
+        },
+        {
+            "m_PlainID": "76561198076743909",
+            "m_Name": "Sniper-Goddess",
+            "m_permissions": {
+                "m_CanUseServerConfig": 1,
+                "m_CanUsePlayersBankData": 1,
+                "m_CanUsePlayersClans": 1,
+                "m_CanUseMiscServer": 1,
+                "m_CanAddAdmins": 1,
+                "m_CanIgnoreNamePermission": 1
+            }
+        }
+    ]
+}

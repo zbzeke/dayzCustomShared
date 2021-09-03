@@ -1,0 +1,11 @@
+///////////////////////////////////////////////////////////
+//														 //
+//      Put the Steam64 IDs for your Admins in here      //
+//      Make a new Line for every ID!					 //
+//														 //
+///////////////////////////////////////////////////////////
+
+76561198190333279
+76561198050911688
+76561198076743909
+<FileEnd>			// This has to be on the End of this File and is very importand!

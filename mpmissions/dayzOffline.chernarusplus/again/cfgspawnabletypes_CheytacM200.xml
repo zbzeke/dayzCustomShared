@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+	<damage min="0.1" max="0.7" />
+<!-- CheytacM200 -->
+	<type name="ussr_m200">
+		<attachments chance="1.00">
+			<item name="M200Optic" chance="0.60" />
+			<item name="M200Optic_black" chance="0.40" />
+			<item name="M200ZeroOptic" chance="0.20" />
+			<item name="M200ZeroOptic_black" chance="0.20" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="Mag_ussrm200_7Rnd" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M200Suppressor" chance="0.20" />
+			<item name="M200Suppressor_black" chance="010" />
+		</attachments>
+	</type>	
+	<type name="ussr_m200_black">
+		<attachments chance="1.00">
+			<item name="M200Optic" chance="0.40" />
+			<item name="M200Optic_black" chance="0.60" />
+			<item name="M200ZeroOptic" chance="0.10" />
+			<item name="M200ZeroOptic_black" chance="0.20" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="Mag_ussrm200_7Rnd" chance="0.60" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="M200Suppressor" chance="0.10" />
+			<item name="M200Suppressor_black" chance="0.20" />
+		</attachments>
+	</type>	
+<!-- CheytacM200End -->
+</spawnabletypes>

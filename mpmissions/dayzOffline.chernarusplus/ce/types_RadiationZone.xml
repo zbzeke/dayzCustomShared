@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<type name="alp_radboxtablets">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+<usage name="Medic"/>
+</type>
+
+<type name="alp_geiger_counter">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+<category name="tools"/>
+<tag name="floor"/>
+<tag name="shelves"/>
+<usage name="Medic"/>
+<usage name="Firefighter"/>
+</type>
+
+<type name="alp_NBCJacketCamo">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+<category name="clothes"/>
+<usage name="Military"/>
+<value name="Tier2"/>			
+<value name="Tier3"/>			
+</type>
+
+<type name="alp_NBCPantsCamo">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+<category name="clothes"/>
+<usage name="Military"/>
+<value name="Tier2"/>			
+<value name="Tier3"/>			
+</type>
+
+<type name="alp_NBCHoodCamo">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+<category name="clothes"/>
+<usage name="Military"/>
+<value name="Tier2"/>			
+<value name="Tier3"/>			
+</type>
+
+<type name="alp_NBCBootsCamo">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+<category name="clothes"/>
+<usage name="Military"/>
+<value name="Tier2"/>			
+<value name="Tier3"/>			
+</type>
+
+<type name="alp_NBCGlovesCamo">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+<category name="clothes"/>
+<usage name="Military"/>
+<value name="Tier2"/>			
+<value name="Tier3"/>			
+</type>
+
+<type name="alp_GasMaskCamo">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+<category name="clothes"/>
+<usage name="Military"/>
+<value name="Tier2"/>			
+<value name="Tier3"/>
+</type>			
+
+<type name="alp_Barrel_Yellow">
+<nominal>0</nominal>
+<lifetime>3888000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
+</type>
+
+<type name="alp_LifeInsuranceExclusive">
+<nominal>0</nominal>
+<lifetime>3600</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+<usage name="Town"/>
+<usage name="Village"/>
+</type>
+
+<type name="alp_CarKey">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+</type>
+
+<type name="alp_CarKeyBlue">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+</type>
+
+<type name="alp_CarKeyGreen">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+</type>
+
+<type name="alp_CarKeyYellow">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+</type>
+
+<type name="alp_CarKeyWhite">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+</type>
+
+<type name="alp_CarKeyPurple">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+</type>
+
+<type name="alp_CarKeyBrown">
+<nominal>0</nominal>
+<lifetime>7200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+</type>
+
+<!-- ALP_MODS END -->
+</types>

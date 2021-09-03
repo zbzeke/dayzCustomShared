@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="ussr_m200">
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="ussr_m200_black">
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+			<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="M200Optic">
+<nominal>0</nominal>
+		<lifetime>0</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+			<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="M200ZeroOptic">
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+			<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Village"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="M200Suppressor">
+<nominal>0</nominal>
+		<lifetime>0</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+			<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="Mag_ussrm200_7Rnd">
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>5</quantmin>
+		<quantmax>20</quantmax>
+		<cost>100</cost>
+			<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="AmmoBox_408Cheytac_15Rnd">
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+			<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="Ammo_408cheytac">
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>5</quantmin>
+		<quantmax>15</quantmax>
+		<cost>100</cost>
+			<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="Prison"/>
+		<usage name="Town"/>
+	</type>
+	
+</types>

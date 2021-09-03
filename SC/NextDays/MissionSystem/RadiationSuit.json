@@ -1,0 +1,114 @@
+{
+	"headgear":
+	[
+		{
+		"className": "NBCHoodGray",
+		"shield": 10,
+		"dosimeter":0
+		},
+		{
+		"className": "alp_NBCHoodCamo",
+		"shield": 10,
+		"dosimeter":0
+		}			
+	],
+	"mask":
+	[
+		{
+		"className": "GP5GasMask",
+		"shield": 60,
+		"dosimeter":0
+		},
+		{
+		"className": "GasMask",
+		"shield": 50,
+		"dosimeter":0
+		},
+		{
+		"className": "AirborneMask",
+		"shield": 50,
+		"dosimeter":0
+		},
+		{
+		"className": "alp_GasMaskCamo",
+		"shield": 50,
+		"dosimeter":0
+		}		
+	],
+	"body":
+	[
+		{
+		"className": "NBCJacketGray",
+		"shield": 15,
+		"dosimeter":1
+		},
+		{
+		"className": "alp_NBCJacketCamo",
+		"shield": 15,
+		"dosimeter":1
+		},
+		{
+		"className": "FirefighterJacket_Beige",
+		"shield": 15,
+		"dosimeter":0
+		},		
+		{
+		"className": "FirefighterJacket_Black",
+		"shield": 15,
+		"dosimeter":0
+		}		
+	],
+	"vest":
+	[
+
+	],
+	"gloves":
+	[
+		{
+		"className": "NBCGlovesGray",
+		"shield": 5,
+		"dosimeter":0
+		},
+		{
+		"className": "alp_NBCGlovesCamo",
+		"shield": 5,
+		"dosimeter":0
+		}		
+	],
+	"legs":
+	[
+		{
+		"className": "NBCPantsGray",
+		"shield": 15,
+		"dosimeter":0
+		},
+		{
+		"className": "FirefightersPants_Beige",
+		"shield": 15,
+		"dosimeter":0
+		},
+		{
+		"className": "FirefightersPants_Black",
+		"shield": 15,
+		"dosimeter":0
+		},
+		{
+		"className": "alp_NBCPantsCamo",
+		"shield": 15,
+		"dosimeter":0
+		}			
+	],
+	"feet":
+	[
+		{
+		"className": "NBCBootsGray",
+		"shield": 5,
+		"dosimeter":0
+		},
+		{
+		"className": "alp_NBCBootsCamo",
+		"shield": 5,
+		"dosimeter":0
+		}		
+	]
+}

@@ -1,0 +1,148 @@
+{
+  "active": 1,
+  "nominal": 1,
+  "isManaged": 1,
+  "isPositionRelativeToMasterMission": 1,
+  "NPC": [
+    {
+      "className": "SurvivorM_Rolf",
+      "IsAlive": 1,
+      "position": [
+        5,
+        50,
+        15
+      ],
+      "yaw": -40,
+      "pitch": 0,
+      "roll": 0,
+      "cargo": [
+        {
+          "title": "CIVIL_HEAD",
+          "chance": 0.8
+        },
+        {
+          "title": "SOLDIER_MASK",
+          "chance": 1
+        },
+        {
+          "title": "CIVIL_TOP",
+          "chance": 1
+        },
+        {
+          "title": "CIVIL_PANTS",
+          "chance": 1
+        },
+        {
+          "title": "CIVIL_BOOTS",
+          "chance": 1
+        },
+        {
+          "title": "CIVIL_BAGS",
+          "chance": 0.5
+        },
+        {
+          "title": "Pistols_1",
+          "chance": 1
+        },
+        {
+          "title": "Automat_1",
+          "chance": 0.5
+        },
+        {
+          "title": "RareItem_3",
+          "chance": 0.1
+        },
+        {
+          "title": "RareItem_1",
+          "chance": 1
+        },
+        {
+          "title": "RareItem_1",
+          "chance": 0.6
+        },
+        {
+          "title": "RareItem_1",
+          "chance": 0.4
+        },
+        {
+          "title": "RareItem_1",
+          "chance": 0.4
+        },
+        {
+          "title": "RareItem_1",
+          "chance": 0.4
+        }
+      ]
+    },
+    {
+      "className": "SurvivorF_Helga",
+      "IsAlive": 1,
+      "position": [
+        -4,
+        50,
+        15
+      ],
+      "yaw": 30,
+      "pitch": 0,
+      "roll": 0,
+      "cargo": [
+        {
+          "title": "CIVIL_HEAD",
+          "chance": 0.8
+        },
+        {
+          "title": "SOLDIER_MASK",
+          "chance": 1
+        },
+        {
+          "title": "CIVIL_TOP",
+          "chance": 1
+        },
+        {
+          "title": "CIVIL_PANTS",
+          "chance": 1
+        },
+        {
+          "title": "CIVIL_BOOTS",
+          "chance": 1
+        },
+        {
+          "title": "CIVIL_BAGS",
+          "chance": 0.5
+        },
+        {
+          "title": "Pistols_1",
+          "chance": 1
+        },
+        {
+          "title": "Automat_1",
+          "chance": 0.5
+        },
+        {
+          "title": "RareItem_3",
+          "chance": 0.1
+        },
+        {
+          "title": "RareItem_1",
+          "chance": 1
+        },
+        {
+          "title": "RareItem_1",
+          "chance": 0.6
+        },
+        {
+          "title": "RareItem_1",
+          "chance": 0.4
+        },
+        {
+          "title": "RareItem_1",
+          "chance": 0.4
+        },
+        {
+          "title": "RareItem_1",
+          "chance": 0.4
+        }
+      ]
+    }
+  ]
+}

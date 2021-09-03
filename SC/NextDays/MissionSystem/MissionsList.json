@@ -1,0 +1,12 @@
+{
+  "MissionList": [
+    
+    {
+      "type": "carAccident",
+      "name": "11_caVehiclesRare"
+    },
+    {
+      "type": "noradiationMission",
+      "name": "11_caVehiclesRareNPC"
+    }]
+}

@@ -1,0 +1,10 @@
+{
+  "RaidTimeInSeconds": 10,
+  "CanAttach": "true",
+  "CanRaid": "true",
+  "DeleteLockOnRaid": "false",
+  "ToolDamageOnRaid": 50,
+  "RaidTools": [
+    "Hacksaw"
+  ]
+}
